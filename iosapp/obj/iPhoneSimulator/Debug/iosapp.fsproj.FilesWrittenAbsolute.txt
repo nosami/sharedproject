@@ -1,0 +1,15 @@
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.fs
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/ibtool/_BundleResourceWithLogicalName.items
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/actool/_PartialAppManifest.items
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/actool/_BundleResourceWithLogicalName.items
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/optimized/
+/Users/jason/Projects/Library/iosapp/bin/iPhoneSimulator/Debug/iosapp.exe.mdb
+/Users/jason/Projects/Library/iosapp/bin/iPhoneSimulator/Debug/iosapp.exe
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/iosapp.exe
+/Users/jason/Projects/Library/iosapp/obj/iPhoneSimulator/Debug/iosapp.exe.mdb
